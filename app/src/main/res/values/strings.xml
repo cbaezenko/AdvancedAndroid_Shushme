@@ -5,4 +5,7 @@
     <string name="setting_enabled" translatable="false">EnabledSetting</string>
     <string name="settings_label">Settings</string>
     <string name="enable_geofences">Enable Geofences</string>
+    <string name="give_permissions">Give permissions</string>
+
+    <string name="api_key">KEY HERE</string>
 </resources>
