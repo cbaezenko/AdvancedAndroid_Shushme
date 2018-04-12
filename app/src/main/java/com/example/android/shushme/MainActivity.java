@@ -82,8 +82,7 @@ public class MainActivity extends AppCompatActivity implements GoogleApiClient.C
 
     @Override
     public void onConnected(@Nullable Bundle bundle) {
-        if(bundle!=null)
-        Log.d(TAG, "service connected " + bundle.toString());
+        Log.d(TAG, "connection successfully!!!");
     }
 
     @Override
